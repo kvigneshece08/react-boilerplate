@@ -1,0 +1,1 @@
+export const testName = console.log("this has test file to execute all the statements");
